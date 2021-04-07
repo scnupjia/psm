@@ -1,0 +1,5 @@
+	group	percentage
+1	Chickpea	9.68
+2	Maize	44
+3	Wheat	76.5
+4	All crops	37.9

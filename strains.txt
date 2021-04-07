@@ -1,0 +1,4 @@
+	group	percentage
+1	Fungal strains	50
+2	Bacterial strains	37.1
+3	All strains	37.9
